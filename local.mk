@@ -1,1 +1,1 @@
-LINUX_OVERRIDE_SRCDIR=../raspberrypi-linux
+LINUX_OVERRIDE_SRCDIR=../linux
